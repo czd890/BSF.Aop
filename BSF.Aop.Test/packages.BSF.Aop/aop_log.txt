@@ -1,0 +1,295 @@
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825190940
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825191012
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825193738
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825193742
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 发生一个或多个错误。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825194245
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825194250
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 发生一个或多个错误。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825194916
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825194921
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825194929
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825194933
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825195005
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825195059
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825195315
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160825195427
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826100619
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826100656
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826101022
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826102138
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 类型“System.Int32&”不能用作类型参数。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 类型“System.Int32&”不能用作类型参数。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 类型“System.Int32&”不能用作类型参数。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 类型“System.Int32&”不能用作类型参数。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 类型“System.Int32&”不能用作类型参数。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: 类型“System.Int32&”不能用作类型参数。
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: AroundAopIL出错,方法:System.Void BSF.Aop.Test.AroundAopTest::Method(BSF.Aop.Test.TempInfo,System.Int32&,System.Int32)
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: AroundAopIL出错,方法:System.Void BSF.Aop.Test.AroundAopTest::Method(BSF.Aop.Test.TempInfo,System.Int32&,System.Int32)
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成失败: AroundAopIL出错,方法:System.Void BSF.Aop.Test.AroundAopTest::Method(BSF.Aop.Test.TempInfo,System.Int32&,System.Int32)
+
+   在 BSF.Aop.AopStartLoader.Start(String[] dirs)
+   在 Program.Main(String[] args)
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826121247
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826121333
+
+日志类型: msgbox
+
+生成目录: D:\net-working\NLCloud\src\BSF\BSF\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826121412
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826164921
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826164931
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165002
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165113
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165117
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165129
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165141
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165159
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165242
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165339
+
+日志类型: msgbox
+
+生成目录: D:\git\BSF.Aop\BSF.Aop.Test\bin\Debug\
+
+生成成功, 时间: 20160826165346
+
