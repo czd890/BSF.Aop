@@ -9,7 +9,9 @@
 
 <br/>
 
-by 车江毅 
+by 车江毅 <br/>
+
+**开源QQ群: .net 开源基础服务  238543768  欢迎交流**
 
 # 使用配置 #
 1）项目引用BSF.Aop.dll,引用Mono.Cecil.dll，引用Mono.Cecil.Pdb.dll。<br/>
